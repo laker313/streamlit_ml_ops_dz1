@@ -1,1 +1,4 @@
 git+https://github.com/laker313/ml_ops_dz1.git@dev
+streamlit
+requests
+pandas
